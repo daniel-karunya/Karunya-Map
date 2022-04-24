@@ -1,2 +1,2 @@
 # Karunya-Map
-A project undertaken by Daniel Gsaiah Paul, Roshan John Renny Samuel and Ruben John
+A project undertaken by Daniel,Isaiah Paul, Roshan John Renny Samuel and Ruben John
